@@ -1,7 +1,14 @@
-Me!
+# **It's me Luigi!**
 
-🇵🇹🇪🇺 ‘95 PT & EU
+
+
+<span style="color:grey">Me text</span>.
+
+🇵🇹 🇪🇺 ‘95 PT & EU
+
 🎓 ‘19 Biomedical Engineer | University of Lisbon
+
 🎓 ‘20 PhD in Computational Medicine | Imperial College London
+
 ⚽️ 🎾 🏌️ 🏃 🥋 🏊 🚴
 
