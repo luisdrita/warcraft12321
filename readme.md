@@ -1,17 +1,15 @@
-## **It's me Luigi!**
+## **It's me Luigi!** 👋
 
 ![background](images/background.jpg)
 
-### Translating atoms into bits
+"Translating atoms ➡️ bits" - Luís Rita
 
-
-
-### CycleAI
+### CycleAI 🚴
 #### Empowering cyclists in fighting for their own safety through AI.
 
 ![title](images/cycleai.png)
 
-### FoodReco
+### FoodReco 🍲
 #### Generating personalized diets to help treating and preventing cancer.
 
 
@@ -22,10 +20,6 @@
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
 
 
 <!-- links to social media icons -->
@@ -41,5 +35,3 @@
 
 [1]: http://www.twitter.com/carlsednaoui
 [2]: http://www.facebook.com/luisdrita
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
