@@ -1,14 +1,18 @@
-# **It's me Luigi!**
+## **It's me Luigi!**
+### Translating atoms into bits
 
 
 
-<span style="color:grey">Me text</span>.
+### CycleAI
+#### Empowering cyclists in fighting for their own safety through AI.
 
-🇵🇹 🇪🇺 ‘95 PT & EU
+![title](images/cycleai.png)
 
-🎓 ‘19 Biomedical Engineer | University of Lisbon
+### FoodReco
+#### Generating personalized diets to help treating and preventing cancer.
 
-🎓 ‘20 PhD in Computational Medicine | Imperial College London
 
-⚽️ 🎾 🏌️ 🏃 🥋 🏊 🚴
+### 1st Portuguese EIT Health Workshop on Diet Counseling for Cancer Patients
+
+
 
