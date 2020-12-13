@@ -6,7 +6,8 @@
 ### CycleAI
 #### Empowering cyclists in fighting for their own safety through AI.
 
-![title](images/cycleai.png)
+<img src="/assets/images/cycleai.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+
 
 ### FoodReco
 #### Generating personalized diets to help treating and preventing cancer.
