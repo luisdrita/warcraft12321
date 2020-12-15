@@ -1,37 +1,25 @@
-## **It's me Luigi!** 👋
+### It's me Luigi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![background](images/background.jpg)
+A PhD student in Imperial College London using nutrition to help fighting cancer and COVID-19. 🍲 Also co-founded CycleAI which aims to improve cyclists' safety in our roads. 🚴
 
-"Translating atoms ➡️ bits" - Luís Rita
+**Motto:** Translating atoms 👉️ bits
 
-### CycleAI 🚴
-#### Empowering cyclists in fighting for their own safety through AI.
+<a href="https://www.linkedin.com/in/luisdrita/">
+        <img alt="Luís Rita LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-![title](images/cycleai.png)
+<a href="https://www.facebook.com/luisdrita">
+        <img alt="Luís Rita Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
 
-### FoodReco 🍲
-#### Generating personalized diets to help treating and preventing cancer.
+<a href="https://luisrita.medium.com/">
+        <img alt="Luís Rita Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
+</a>
 
+<br/>
 
+![background](images/github.png)
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+At the moment, I am a self-funded PhD student. If my work is meaningful to you, maybe consider buying me a coffee. 😊
 
-<!-- display the social media buttons in your README -->
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/luisdrita
+<a href="https://www.buymeacoffee.com/luisrita" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
