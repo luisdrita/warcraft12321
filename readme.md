@@ -20,7 +20,3 @@ A PhD student in Imperial College London using nutrition to help treating and pr
 <br/>
 
 ![background](images/github.png)
-
-At the moment, I am a self-funded PhD student. If my work is meaningful to you, maybe consider buying me a coffee. 😊
-
-<a href="https://www.buymeacoffee.com/luisrita" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
