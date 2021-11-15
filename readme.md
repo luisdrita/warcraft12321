@@ -2,7 +2,7 @@
 
 A PhD student in Imperial College London using nutrition to help treating and preventing cancer and COVID-19. 🍲 Also co-founded CycleAI which aims to improve cyclists' safety in our roads. 🚴
 
-**Motto:** Translating atoms 👉️ bits
+Translating atoms 👉️ bits
 
 <a href="https://www.linkedin.com/in/luisdrita/">
         <img alt="Luís Rita LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
