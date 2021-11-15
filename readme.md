@@ -8,10 +8,6 @@ A PhD student in Imperial College London using nutrition to help treating and pr
         <img alt="Luís Rita LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://www.facebook.com/luisdrita">
-        <img alt="Luís Rita Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-
 <br/>
 <br/>
 
